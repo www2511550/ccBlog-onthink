@@ -15,5 +15,5 @@
 define('UC_APP_ID', 1); //应用ID
 define('UC_API_TYPE', 'Model'); //可选值 Model / Service
 define('UC_AUTH_KEY', 'cqX+-7t9G$6YbVx{}[^Hm]KQ&Wp"f|,5k~lPRe/w'); //加密KEY
-define('UC_DB_DSN', 'mysql://root:@127.0.0.1:3306/baguawu'); // 数据库连接，使用Model方式调用API必须配置此项
+define('UC_DB_DSN', 'mysql://root:@127.0.0.1:3306/ccblog'); // 数据库连接，使用Model方式调用API必须配置此项
 define('UC_TABLE_PREFIX', 'bgw_'); // 数据表前缀，使用Model方式调用API必须配置此项
